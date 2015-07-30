@@ -12,7 +12,7 @@ Arduino Pro Mini 3.3V
 NXP PN532  
 Mifare Classic 1k - NXP MF1ICS50  
 I2C 128x64 OLED Display  
-I2C Real Time Clock - DS1307 AT24C32
+I2C Real Time Clock - DS1307 AT24C32  
 3-35V to 2.2-30V Boost Buck Regulator  
 240-12V or 240-5VDC Power Supply  
 MOSFET or Relay Module for machine tool integration  
