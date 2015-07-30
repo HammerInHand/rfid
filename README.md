@@ -1,5 +1,5 @@
-# rfid
-RMAP - RFID Machine Access Policy
+# RMAP - RFID Machine Access Policy
+
 
 Description:
 An RFID access control system for machine tool interlock.
