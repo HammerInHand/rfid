@@ -9,8 +9,8 @@
 #define RST_PIN  15 // RST-PIN für RC522 - RFID - SPI - Modul GPIO15 
 #define SS_PIN   2 // SDA-PIN für RC522 - RFID - SPI - Modul GPIO2 
 
-const char *ssid =  "etheira.net";  // change according to your Network - cannot be longer than 32 characters!
-const char *pass =  "0418372966"; // change according to your Network
+const char *ssid =  "ssid";  // change according to your Network - cannot be longer than 32 characters!
+const char *pass =  "pass"; // change according to your Network
 
 MFRC522 mfrc522(SS_PIN, RST_PIN);  // Create MFRC522 instance
 boolean match = false;
